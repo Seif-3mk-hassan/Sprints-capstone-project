@@ -4,6 +4,7 @@ pydantic
 python-dotenv
 requests
 pytest
+
+# ETL related libraries
 pandas
 numpy
-os
