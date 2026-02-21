@@ -8,3 +8,4 @@ pytest
 # ETL related libraries
 pandas
 numpy
+textblob
