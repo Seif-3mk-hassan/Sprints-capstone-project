@@ -21,7 +21,7 @@ def verify_api_key(api_key: str = Security(api_key_header)):
 
 
 # ─── Check database exists ──────────────────────────
-DB_PATH = "data/reviews_db.sqlite"
+DB_PATH = "/data/reviews_db.sqlite"
 
 if not os.path.exists(DB_PATH):
     print("❌ Database not found! Run etl_pipeline.py first.")
