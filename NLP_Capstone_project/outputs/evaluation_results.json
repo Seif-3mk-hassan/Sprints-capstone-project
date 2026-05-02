@@ -1,0 +1,131 @@
+{
+  "average_rougeL": 0.0,
+  "num_samples": 20,
+  "config": {
+    "prompt_style": "few-shot",
+    "use_rag": true,
+    "k": 3
+  },
+  "details": [
+    {
+      "issue": "Subject :Technical Downtime|a marketing agency is facing recurring downtime with its digital tools, which is hindering the growth of its brand. the issue might be caused by server overloads due to high traffic. attempts to restart services and check network connections have not resolved the problem. assistance is required to address and prevent future occurrences.",
+      "reference": "i would like to help resolve the downtime issue. to do so, i need to understand the server setup and traffic patterns. please provide the necessary details. i am available to discuss further via a call at your convenience to assist in resolving the issue and preventing future occurrences.",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Update Needed|seeking an update on digital marketing strategies to improve brand expansion across various product lines and platforms, aiming for better customer interaction.",
+      "reference": "we have received your request for an update on digital marketing strategies to boost brand growth and customer engagement. our specialist will contact you shortly.",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Server Performance Concerns|customer support has documented an issue with server performance during peak hours, where users faced sporadic slow loading times. it is suspected that the problem may be due to server overload. the team attempted to resolve the issue by rebooting the servers, which offered only temporary relief. a permanent solution is necessary to address the root cause. despite efforts to identify the underlying problem, the exact cause remains elusive. your assistance in examining this matter would be highly appreciated.",
+      "reference": "please investigate the server performance issue and contact <tel_num> to discuss and determine the appropriate next steps to resolve the problem.",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Assistance with Data Breach Incident|dear support team, we have identified a data breach incident that has compromised the security of medical data, possibly due to inadequate encryption protocols. initial actions included updating security software and reviewing access logs. further investigation and corrective measures are needed to prevent future incidents. we would greatly appreciate your guidance on the next steps to ensure the security of the medical data. please let us know if additional information is needed to facilitate a thorough investigation and resolution.",
+      "reference": "hello, thank you for reaching out to our support team regarding the data breach incident. we understand the importance of securing medical data. we appreciate the initial measures you have taken to update security software and review access logs. to facilitate a thorough investigation, could you please provide more details on the incident, including the timeline and any suspicious activity detected in the access logs? this information will help us provide tailored guidance for the next steps to prevent future incidents.",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Billing Discrepancies at Financial Institution|dear customer support, i am reaching out to highlight an urgent issue concerning billing discrepancies encountered by a financial institution utilizing cassandra ibm spss services. despite our manual efforts to reconcile invoices and verify software versions, the problem remains unresolved. we suspect the root cause may be linked to integration errors with zapier, which we are using to streamline our operations. these discrepancies are causing significant stress and financial strain on our company, and we are eager to resolve this matter as soon as possible. your prompt assistance would be greatly appreciated.",
+      "reference": "dear  ,  thank you for your email regarding the billing discrepancies related to cassandra ibm spss services. we recognize the urgency of this issue and its impact on your organization. we are currently investigating the matter and would appreciate it if you could provide detailed logs and information about the specific errors encountered during zapier integration, along with the steps you have taken so far.  additionally, we would like to schedule a convenient time to discuss this further. please let us know a suitable contact number and preferred time for a call.  best regards,   ",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Request for Information on Sage Accounting Integration|hello customer support, i am writing to inquire about the integration details of the sage accounting saas platform. i would greatly appreciate it if you could provide information on the setup process, features, and benefits of using the sage accounting platform. specifically, i am interested in learning more about the data synchronization process, any potential limitations, and the level of support offered. thank you for your time and assistance. i look forward to hearing back from you soon.",
+      "reference": "dear [name], thank you for your email regarding the sage accounting integration platform. we would be happy to provide information on the setup process, features, and benefits. to discuss this further, we are available for a call at your convenience. please let us know a suitable time, and you can reach us at [tel_num] or send the details via email.",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Support for SaaS Google Nest Wifi Integration|could you please offer assistance with integrating saas google nest wifi router? we would appreciate it if you could provide more details about your current setup and the specific features you wish to integrate. this information will help us give you accurate guidance and support. if you're available, we can schedule a call at <tel_num> to discuss further. we look forward to helping with the integration.",
+      "reference": " , we appreciate your interest in integrating the saas google nest wifi router. to assist you better, could you please provide details about your current setup and the specific features you would like to integrate? this information will help us provide accurate guidance and support. if you're available, we can schedule a call at <tel_num> to discuss further. we look forward to helping with the integration.",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Online Campaign|the marketing firm's digital campaign data is not syncing properly across different platforms, potentially due to recent software updates.",
+      "reference": "  is drafting an acknowledgment email concerning the problem with the digital campaign data not syncing across platforms, likely caused by recent software updates. we apologize for any inconvenience this may have caused and are ready to assist you. to better understand the issue, could you please provide details of any error messages you're encountering, specific symptoms observed, and information about the recent software updates applied? additionally, scheduling a call at your convenience to discuss this further would be helpful.",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Report on Security Breach in Healthcare System|customer support, <br>we are writing a report on the data breach in the healthcare system where security breaches have compromised medical data. the breach may have occurred due to outdated software vulnerabilities that were not properly patched. <br>we have taken immediate action to update our security protocols and have attempted to encrypt the affected data. however, there remains a risk, and we are seeking assistance to ensure the security system is secure. <br>we would appreciate your guidance and support to help us mitigate this issue.",
+      "reference": "we have received your report on the data breach in the healthcare system. we will escalate this issue to the security team. please confirm a suitable time to call so we can discuss the steps needed to secure the system and prevent future breaches. we will provide guidance and support to help mitigate this issue.",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Problem with Unstable Model Results Identified|there are inconsistencies in the outcomes of our investment prediction models, which might be related to recent data integration problems. we have checked the data sources and restarted the analytics platform, but the issue still exists. we need help to resolve this.",
+      "reference": "received your email concerning the inconsistent model results. will review the case and contact you at <tel_num> to discuss and schedule a suitable time for the technical team to investigate the issue.",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Trouble with Alteryx WooCommerce Data Integration|facing data integration problems between platforms",
+      "reference": "the   service desk team is addressing the alteryx woocommerce data integration issue. please share the details of the issue, any error messages, or data you're receiving, so we can better understand the problem and provide an effective solution. could you also schedule a call at a convenient time for you to discuss the issue further?",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Urgent: Major Failure in SaaS Platform|a severe outage has affected the saas platform, disrupting various integrations. recent updates might be the cause of api connection problems. efforts to revert and reset configurations have been unsuccessful.",
+      "reference": "acknowledged the email about the critical outage on the saas platform. to assist further, could you provide details on the recent updates and any error messages you are seeing? i would prefer to schedule a call to discuss the issue. i am available at a specific time today and can be reached at <tel_num> for troubleshooting.",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Account Problem|noted the occurrence of unauthorized charges on your account during a specific month across various products. this might have happened due to a billing system glitch or account compromise. so far, we have verified your account security settings and reviewed recent transactions. we kindly ask for your assistance in investigating and resolving the matter as soon as possible to prevent any further unauthorized activity.",
+      "reference": "customer, thank you for bringing this matter to our attention. we apologize for the unauthorized charges on your account. to further investigate, could you please provide your account number and the dates of the suspicious transactions? our billing team will review the account activity and work to resolve the issue as soon as possible. if needed, please contact <tel_num> to discuss further and let us know a convenient time to call.",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Assistance Required for Digital Marketing Campaign Optimization|our digital marketing campaigns are currently underperforming, resulting in stagnant brand growth. despite adjusting budgets and refining targeting, we've noticed some improvement. it's possible recent algorithm updates on social media platforms are impacting ad visibility. we need help in revamping our strategy to boost brand growth.",
+      "reference": "i would be happy to assist in revamping your digital marketing strategy. please provide details on your current campaigns and goals. you can call <tel_num> for further discussion.",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Problem with Real-Time Data Visualization|the digital marketing analytics tool that shows live data is not updating as expected after the recent system upgrade. i have tried refreshing and clearing the cache, but the issue still exists.",
+      "reference": "we need to look into the problem with the digital marketing analytics tool. please provide your account details so we can schedule a call at a convenient time to discuss this further. thank you.",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Assistance Required for Investment Support|the investment optimization algorithm is generating inconsistent outputs due to market fluctuations. despite recalibrating the inputs and testing various scenarios, the issue remains unresolved. we need your help to resolve the problem and ensure accurate outputs.",
+      "reference": "i acknowledge the issue with the investment optimization algorithm, which is producing inconsistent outputs due to market fluctuations. i am sorry to hear that recalibrating the inputs and testing various scenarios did not resolve the problem. i would like to assist in resolving this issue. to better understand the problem, could you please provide details on the inconsistent outputs and the specific market fluctuations causing the issue? it would be helpful if you could call at your convenience to discuss this further. please let me know.",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Concern About Investment Analytics Software|the investment analytics tools at the financial firm are encountering problems, leading to delays.",
+      "reference": "dear [name], we acknowledge the issue with the investment analytics tools. we are sorry to hear that the malfunction is causing delays. we would like to resolve this issue as soon as possible. could you please provide more details about the error message you are receiving and the specific functionality that is not working as expected? this will help us better understand the issue and provide an accurate solution. we need to schedule a call at a convenient time for you, so please let us know when you are available to discuss further and arrange the call.",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Technical Issue with Project Dashboards|users are facing difficulties in accessing project dashboards due to an unexpected software error, which may have been triggered by recent updates. despite attempts to clear caches and restart the application, the issue remains unresolved. we would greatly appreciate it if you could look into this matter and provide a solution as soon as possible. please let us know if there is any additional information needed to resolve this issue.",
+      "reference": "received your email regarding the error with project dashboards and are looking into the matter. please provide details on the recent updates and the exact error message that users are encountering. this will help us investigate and provide a solution as soon as possible. we may need to contact <tel_num> for additional information.",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Customer Support for Data Breach|a healthcare organization identified unauthorized access attempts. password resets have been carried out, and monitoring has been intensified.",
+      "reference": "currently under immediate investigation",
+      "generated": "",
+      "rougeL": 0
+    },
+    {
+      "issue": "Subject :Request for Enhanced Data Analytics Integration with Airtable and Microsoft Office to Improve Investment Optimization and Insights for Better Decision-Making|i am requesting an enhancement in data analytics integration between airtable and microsoft office to improve investment optimization and gain better insights, which will aid in better decision-making.",
+      "reference": "your request for enhanced data analytics integration between airtable and microsoft office to improve investment optimization and insights has been received. we will review your request and contact you at a convenient time to discuss possible solutions.",
+      "generated": "",
+      "rougeL": 0
+    }
+  ]
+}
