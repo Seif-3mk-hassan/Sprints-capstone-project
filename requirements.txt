@@ -5,6 +5,13 @@ python-dotenv
 requests
 pytest
 
+# RAG / Gemini (NLP_Capstone_project)
+langchain
+langchain-google-genai
+chromadb
+langchain-chroma
+google-generativeai
+
 # ETL related libraries
 pandas
 numpy

@@ -1,0 +1,15 @@
+# Secrets
+.env
+**/.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# RAG artifacts
+**/chroma_db/
+**/outputs/
+
+# OS
+.DS_Store
