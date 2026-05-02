@@ -50,7 +50,7 @@ def get_settings(*, dotenv_path: str | os.PathLike | None = None) -> Settings:
         load_dotenv(dotenv_path)
 
     google_api_key = os.getenv("GOOGLE_API_KEY")
-    gemini_model = os.getenv("GEMINI_MODEL", "gemini-1.5-flash")
+    gemini_model = os.getenv("GEMINI_MODEL", "models/gemini-2.0-flash")
 
     mock_mode = os.getenv("MOCK_MODE", "false").strip().lower() in {"1", "true", "yes", "y"}
 
